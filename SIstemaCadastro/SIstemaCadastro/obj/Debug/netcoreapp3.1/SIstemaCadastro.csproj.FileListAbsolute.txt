@@ -189,3 +189,4 @@ C:\Users\Chico s\Desktop\GITHUB\CadastroSimples-ASP.NET-Core-Boostrap\SIstemaCad
 C:\Users\Chico s\Desktop\GITHUB\CadastroSimples-ASP.NET-Core-Boostrap\SIstemaCadastro\SIstemaCadastro\obj\Debug\netcoreapp3.1\SIstemaCadastro.dll
 C:\Users\Chico s\Desktop\GITHUB\CadastroSimples-ASP.NET-Core-Boostrap\SIstemaCadastro\SIstemaCadastro\obj\Debug\netcoreapp3.1\SIstemaCadastro.pdb
 C:\Users\Chico s\Desktop\GITHUB\CadastroSimples-ASP.NET-Core-Boostrap\SIstemaCadastro\SIstemaCadastro\obj\Debug\netcoreapp3.1\SIstemaCadastro.genruntimeconfig.cache
+C:\Users\Chico s\Desktop\GITHUB\CadastroSimples-ASP.NET-Core-Boostrap\SIstemaCadastro\SIstemaCadastro\obj\Debug\netcoreapp3.1\SIstemaCadastro.csprojAssemblyReference.cache

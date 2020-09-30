@@ -11,7 +11,6 @@ using SIstemaCadastro.Models;
 
 namespace SIstemaCadastro.Controllers
 {
-    [Authorize]
     public class ProdutosController : Controller
     {
         private readonly ApplicationDbContext _context;
